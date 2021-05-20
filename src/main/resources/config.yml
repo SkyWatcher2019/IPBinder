@@ -1,0 +1,8 @@
+permissions:
+  ipbind: "ipbinder.ipbind"
+  ipbindother: "ipbinder.ipbindother"
+  ipunbind: "ipbinder.ipunbind"
+  ipunbindother: "ipbinder.ipunbindother"
+  bindedips: "ipbinder.bindedips"
+  bindedipsother: "ipbinder.bindedipsother"
+  reload: "ipbinder.reload"

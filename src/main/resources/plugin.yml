@@ -1,0 +1,19 @@
+name: IPBinder
+version: BETA-1.4
+description: "§eПривязка аккаунтов к IP"
+author: SkyWatcher_2019
+main: ru.skywatcher_2019.IPBinder.Main
+api-version: 1.16
+commands:
+  ipbind:
+    usage: "§e/ipbind §b[ник] [айпи]"
+    description: "§eПривязывает ваш аккаунт к айпи"
+  ipunbind:
+    usage: "§e/ipunbind §b[ник] <номер>"
+    description: "§eОтвязывает аккаунт от айпи с указанным номером"
+  bindedips:
+    usage: "§e/bindedips §b[ник]"
+    description: "§eСписок ваших привязанных айпи/айпи указанного аккаунта"
+  ipbindreload:
+    usage: "§e/ipbindreload"
+    description: "§eПерезагрузка настроек"
